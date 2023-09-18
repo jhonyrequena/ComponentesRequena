@@ -1,0 +1,19 @@
+aside{
+    background-color: rgb(18, 10, 102);
+    width: 30vw;
+    height: 65vh;
+    font-weight: bolder;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+aside h2{
+    font-size: 28px;
+    margin-top: 15px;
+}
+
+aside p{
+    padding: 20px;
+}

@@ -1,0 +1,16 @@
+footer{
+    background-color: rgb(26, 25, 24);
+    height: 15vh;
+    font-weight: bolder;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+footer p{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 8px;
+}

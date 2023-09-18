@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(255, 247, 0);
+    height: 15vh;
+}
+
+nav a{
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    background-color:rgb(21, 12, 122);
+    padding: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+}
